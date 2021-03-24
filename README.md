@@ -4,9 +4,7 @@
 > Date : 2020 / 11 / 10 <br>
 > List :
 >
-> > <a href = "#discription">Description</a><br>
-> > <a href = "#my idea">My Idea</a><br>
-> > <a href = "#operation">Operation</a>
+> > <a href = "#discription">Description</a><br> > > <a href = "#my idea">My Idea</a><br> > > <a href = "#operation">Operation</a>
 
 ---
 
@@ -88,7 +86,7 @@ for (i = 0.0; i < 180.0; i += 1.0) {
 - `Right Hand Rotation` : Let the Android robot's right hand ( left side of the field of view ) swing up and down
 - `Left Hand Rotation` : Let the Android robot's left hand ( right side of the field of view ) swing up and down
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <font size = "4px" color = "pink"> ❤ Isn't it cute ? </font>
+<font size = "4px" color = "pink"> ❤ Isn't it cute ? </font>
 
 </div>
 <br>
